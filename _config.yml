@@ -1,0 +1,3 @@
+# Bestanden die niet op de website horen
+exclude:
+  - CLAUDE.md
