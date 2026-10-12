@@ -189,17 +189,8 @@ section{padding:76px 0;}
 .facts p{color:var(--ink-soft); font-size:0.98rem; margin:0;}
 
 /* ---------- programma ---------- */
-.program{border-top:1px solid var(--line); list-style:none; margin:0; padding:0;}
-.program li{
-  display:grid; grid-template-columns:120px 1fr; gap:24px;
-  padding:18px 0; border-bottom:1px solid var(--line);
-  align-items:baseline;
-}
-@media(max-width:600px){.program li{grid-template-columns:1fr; gap:4px;}}
-.program .when{font-family:'JetBrains Mono', monospace; font-size:0.78rem; letter-spacing:0.1em; text-transform:uppercase; color:var(--rust-dark);}
-.program li.bonus .when{color:var(--sage);}
-.program h3{font-size:1.16rem;}
-.program p{margin:4px 0 0; color:var(--ink-soft); font-size:0.97rem;}
+.steps.three{grid-template-columns:repeat(3,1fr);}
+@media(max-width:760px){.steps.three{grid-template-columns:1fr;}}
 
 /* ---------- prijs ---------- */
 .price-card{
