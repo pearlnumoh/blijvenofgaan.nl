@@ -1,12 +1,13 @@
 # Blijvenofgaan.nl
 
-Statische website voor blijvenofgaan.nl (Belpearl, Pearl Numoh), gehost via GitHub Pages.
+Statische website voor blijvenofgaan.nl (Belpearl, Pearl), gehost via GitHub Pages.
 
 ## Werkafspraken
 
 - Communiceer in het Nederlands, eenvoudig en niet-technisch uitgelegd.
 - Zakelijk e-mailadres: **hello@pearlfamilycounseling.com**. Gebruik nooit meer het hotmail-adres in zakelijke communicatie of op de sites.
 - Discretie: geen trackers, pixels of onnodige externe verzoeken (ook geen Google Fonts via Google; lettertypes zelf hosten).
+- Privacy: gebruik nooit de achternaam van Pearl, niet op de site en niet in deze (openbare) repo. Alleen "Pearl" of "Belpearl" gebruiken.
 - De inhoud van de 10-daagse (titels, teasers en vragen per dag en per bonus) is betaald aanbod: nooit op de site of in deze (openbare) repo zetten. Alleen de opbouw beschrijven.
 - Teksten eerst ter review voorleggen aan Pearl voordat ze definitief online gaan.
 
